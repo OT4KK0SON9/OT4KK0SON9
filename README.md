@@ -11,4 +11,4 @@
 Saya Lagi Belajar Buat Script Termux🐦</p>
 
 
-<b href="https://www.youtube.com/c/OTAKKOSONG">YOUTUBE SAYA</b> 
+<a href="https://www.youtube.com/c/OTAKKOSONG">YOUTUBE SAYA</a> 
