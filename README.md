@@ -9,6 +9,6 @@
 
 <p style="font-weight:300;">Halo Banf 👋
 Saya Lagi Belajar Buat Script Termux🐦</p>
-    </h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-</h1>
+
+
+<b href="https://www.youtube.com/c/OTAKKOSONG">YOUTUBE SAYA</b> 
