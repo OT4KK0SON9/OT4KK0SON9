@@ -5,7 +5,7 @@
 <h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/VXJWhaO7afRe"/>
+  <img src="https://giphy.com/gifs/VXJWhaO7afRe/giphy.gif"/>
 </div
 
 <p style="font-weight:300;">Halo Banf 👋
