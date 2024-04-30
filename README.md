@@ -5,7 +5,7 @@
 </h1>                                
 
 <h2>
-align="left">Hi 👋! Nama Saya Adalah "Otak Kosong, Saya Seorang Pemula Dan Seorang...  Recode:) </h2>
+> Hi 👋! Nama Saya Adalah "Otak Kosong, Saya Seorang Pemula Dan Seorang...  Recode:) </h2>
 
 ###
 ###
