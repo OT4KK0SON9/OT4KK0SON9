@@ -4,8 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>                                
 
-<h2>
-> Hi 👋! Nama Saya Adalah "Otak Kosong, Saya Seorang Pemula Dan Seorang...  Recode:) </h2>
+<h9>
+> Hi 👋! Nama Saya Adalah "Otak Kosong, 
+  Saya Seorang Recoder:) </h9>
 
 ###
 ###
